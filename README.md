@@ -10,7 +10,7 @@ Author: Tim Chartier, June 2022
 This page contains code to make polynomial art.  
 
 <table>
-<tr><img src="/monalisa.png" width=400>
+<tr><img src="https://github.com/timchartier/optart/blob/main/monaLisa.png?raw=true" width=400>
 <td><img src="/monalisaPoly.png" width=400>
 <td>
 </tr>
