@@ -19,7 +19,6 @@ numberOfPolys = 5
 filename = 'monaLisa.png'
 
 # Open image and make an array
-filename = 'monaLisa.png'
 outputFilename = filename[:-4] + 'Poly.png'
 imgInput = Image.open(filename)
 
