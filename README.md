@@ -11,10 +11,12 @@ This page contains code to make polynomial art.  You can change any part of
 the code (of course, that's the point of code if you are a programmer) 
 but the most important part is the top
 
+<pre>
 # Input parameters 
 numberOfTilesAcross = 30
 numberOfPolys = 5
 filename = 'monaLisa.png'
+</pre>
 
 The bigger numberOfTilesAcross, the more resolution you have and smaller the patch of the image that's replaced by polynomials. 
 
